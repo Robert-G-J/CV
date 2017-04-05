@@ -8,7 +8,7 @@ Hello there, I'm Robert.
 
 I'm a junior full-stack Ruby developer with 7 years science and mathematics teaching experience in Inner London.
 
-I'm into collaboration and challenge. I dig creativity and spreading kindness. 
+I'm into collaboration and challenge. I dig creativity and spreading kindness.
 
 ***
 
@@ -34,7 +34,8 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 ***
 ## <a name="education">Education</a>
 
-#### Makers Academy (March 2017 - July 2017)
+#### Makers Academy (March 2017 - July 2017)    
+Highly selective 12-week coding bootcamp
 
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
@@ -64,22 +65,32 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 ## <a name="experience">Experience</a>
 
 **IQEI Tuition Ltd** (Apr 2016 to present)    
-*Science and Mathematics Tutor*  
+*Science and Mathematics Tutor*   
+Specialist in exam preparation for GCSE, working residentially with clients and students. 
+Most recent client predicted DDDD in Mathematics, Physics, Chemistry and Biology. After intervention, he subsequently achieved BBCB, achieving +7 grade points above prediction.
+
+
 **Ricards Lodge High School** (Dec 2015 to July 2016)   
 *Mathematics Teacher*
-**Rutlish School** (Dec 2015 to July 2016)
-*Science and Mathematics Teacher*
-**Drayton Manor High School** (July 2010 to Dec 2015)
-*Physics Teacher*
-**Peterson Alexander** (Apr 2008 to Nov 2008)
-*Recruitment Consultant*
-**Guided Solutions** (Sep 2007 to Apr 2008)
-*Researcher*
-**The Security Group** (Sep 2005 to Sep 2007)
-*Head Door Supervisor*
 
+**Rutlish School** (Dec 2015 to July 2016)    
+*Science and Mathematics Teacher*
+
+**Drayton Manor High School** (July 2010 to Dec 2015)   
+*Physics Teacher*
+
+**Peterson Alexander** (Apr 2008 to Nov 2008)   
+*Recruitment Consultant*
+
+**Guided Solutions** (Sep 2007 to Apr 2008)   
+*Researcher*
+
+**The Security Group** (Sep 2005 to Sep 2007)   
+*Head Door Supervisor*
+    
 ***
 ## <a name="interests">Interests</a>
+- Film photography
 - Chillies
 - Bees and beekeeping
 - Surfing
