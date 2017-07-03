@@ -7,7 +7,7 @@ Hello there, I'm Robert.
 I'm a full-stack Ruby and JS developer with 7 years science and mathematics teaching experience in Inner London.
 
 Collaboration and challenge are my fuel. I admire energy, confidence and the desire to get dirty. I dig creativity and openness. I can distil information into clear ideas that are tuned to the ear that's listening.
-***
+
 
 ## <a name="skills">Skills</a>
 
@@ -24,7 +24,7 @@ That's a pretty broad term, but is encapsulated by an energy and enthusiasm to u
 - Collaboration: Pair-programming, Stand-Ups, Retros and 360° Feedback
 - Behaviours: Reverence of  XP values and infectious enthusiasm
 - Learning driven: Hungry to rapidly learn and work as a knowledge worker
-***
+
 
 ## <a name="education">Education</a>
 
@@ -53,7 +53,6 @@ A highly selective 12-week coding bootcamp that sculpts independent and driven l
 **IQEI Tuition** (Apr 2016 to present)    / *Science and Mathematics Tutor*   
 Specialist in exam preparation for GCSE, working residentially with clients and students.
 - Most recent client predicted DDDD in Mathematics, Physics, Chemistry and Biology. After intervention, he subsequently achieved BBCB, achieving +7 grade points above prediction.
-***
 
 **Ricards Lodge High School** (Dec 2015 to July 2016)   / *Mathematics Teacher*
 - Spearheaded an introduction to online learning and behaviour management web applications to KS3 and KS4 classes, encouraging and assisting colleagues
