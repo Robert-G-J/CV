@@ -53,6 +53,7 @@ A highly selective 12-week coding bootcamp that sculpts independent and driven l
 **IQEI Tuition** (Apr 2016 to present)    / *Science and Mathematics Tutor*   
 Specialist in exam preparation for GCSE, working residentially with clients and students.
 - Most recent client predicted DDDD in Mathematics, Physics, Chemistry and Biology. After intervention, he subsequently achieved BBCB, achieving +7 grade points above prediction.
+***
 
 **Ricards Lodge High School** (Dec 2015 to July 2016)   / *Mathematics Teacher*
 - Spearheaded an introduction to online learning and behaviour management web applications to KS3 and KS4 classes, encouraging and assisting colleagues
