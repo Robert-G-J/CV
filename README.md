@@ -1,5 +1,3 @@
-web applications# Robert Jones
-
 ### Personable and enthusiastic lover of problems and people
 ***
 [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Contact](#contact)
