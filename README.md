@@ -1,6 +1,6 @@
 ### Personable and enthusiastic lover of problems and people
 ***
-[Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Contact](#contact)
+[Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Contact](#contact)
 
 Hello there, I'm Robert.
 
@@ -25,6 +25,16 @@ That's a pretty broad term, but is encapsulated by an energy and enthusiasm to u
 - Behaviours: Reverence of  XP values and infectious enthusiasm
 - Learning driven: Hungry to rapidly learn and work as a knowledge worker
 
+## <a name="projects">Projects</a>
+
+| Project | Summary | Technologies | Undertaken |  
+|----|----|----|----|    
+| [Finding Ra](https://github.com/Robert-G-J/finding-ra) | A TDD 'sunny pub' finder (made in 4 days); my penultimate group project at Makers Academy  | Node.js, Javascript, Jasmine, Google Maps/Places API | Team of 4 Junior Devs & Pair Programming |
+| [MakersBnB](https://github.com/Robert-G-J/makersbnb) | A TDD clone of AirBnB | Javascript, Node.js | Team of 4 with Pair Programming |
+| [Acebook](http://github.com/Robert-G-J/acebook-remote-april-2017) | A fantastic clone of Facebook | Ruby on Rails, RSpec | Team of 17, split into teams of 4/5
+| [Testing Framework](https://github.com/Robert-G-J/NoteyMcNoteface/blob/master/test-library.js) | A simple JS test suite, built as a library for a To Do list app, with the purpose of also later being used to build a news summary app. | Vanilla JavaScript | Full Pair Programming |
+| [InstaSham](https://github.com/Robert-G-J/instagram-challenge)| A fun clone of the Instagram web app | Ruby on Rails, RSpec/Capybara, HTML, CSS  | Solo |
+|[RPS](https://github.com/elena-vi/JustMeat/commits/master)| A simplistic RPS simulator | Ruby, Sinatra, RSpec | Solo |
 
 ## <a name="education">Education</a>
 
@@ -57,7 +67,7 @@ Specialist in exam preparation for GCSE, working residentially with clients and 
 
 **Ricards Lodge High School** (Dec 2015 to July 2016)   / *Mathematics Teacher*
 - Spearheaded an introduction to online learning and behaviour management web applications to KS3 and KS4 classes, encouraging and assisting colleagues
-‘Flipped Learning' with a high-ability KS3 class, enabling in-class focus on open problems and resulting in improved mathematical problem solving skills
+- ‘Flipped Learning' with a high-ability KS3 class, enabling in-class focus on open problems and resulting in improved mathematical problem solving skills
 
 - Employed gamification web applications (Mangahigh, The Universe and More) with low ability intervention groups, encouraging competition and circumventing low self-esteem  
 - Self-developed using Twitter and the blogs of Advanced Skills Teachers (ASTs)
