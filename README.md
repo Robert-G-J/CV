@@ -34,7 +34,7 @@ That's a pretty broad term, but is encapsulated by an energy and enthusiasm to u
 | [Acebook](http://github.com/Robert-G-J/acebook-remote-april-2017) | A fantastic clone of Facebook | Ruby on Rails, RSpec | Team of 17, split into teams of 4/5
 | [Testing Framework](https://github.com/Robert-G-J/NoteyMcNoteface/blob/master/test-library.js) | A simple JS test suite, built as a library for a To Do list app, with the purpose of also later being used to build a news summary app. | Vanilla JavaScript | Full Pair Programming |
 | [InstaSham](https://github.com/Robert-G-J/instagram-challenge)| A fun clone of the Instagram web app | Ruby on Rails, RSpec/Capybara, HTML, CSS  | Solo |
-|[RPS](https://github.com/elena-vi/JustMeat/commits/master)| A simplistic RPS simulator | Ruby, Sinatra, RSpec | Solo |
+|[RPS](https://github.com/Robert-G-J/rps-challenge)| A simplistic RPS simulator | Ruby, Sinatra, RSpec | Solo |
 
 ## <a name="education">Education</a>
 
