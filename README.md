@@ -38,7 +38,7 @@ That's a pretty broad term, but is encapsulated by an energy and enthusiasm to u
 |----|----|----|----|    
 | [Finding Ra](https://github.com/Robert-G-J/finding-ra) | A TDD 'sunny pub' finder (made in 4 days); my penultimate group project at Makers Academy  | Node.js, Javascript, Jasmine, Google Maps/Places API | Team of 4 Junior Devs & Pair Programming |
 | [MakersBnB](https://github.com/Robert-G-J/makersbnb) | A TDD clone of AirBnB | Javascript, Node.js | Team of 4 with Pair Programming |
-| [Acebook](http://github.com/Robert-G-J/acebook-remote-april-2017) | A fantastic clone of Facebook | Ruby on Rails, RSpec | Team of 17, split into teams of 4/5
+| [Weather-Notifier](http://github.com/bruxelles86/weather-notifier) | Users can set alerts for favourable weather forecasts, so they can plan their leisure time | Javascript, Node.js, WorldWeather API | Remote, pair-programming collaboration (on-going)
 | [Testing Framework](https://github.com/Robert-G-J/NoteyMcNoteface/blob/master/test-library.js) | A simple JS test suite, built as a library for a To Do list app, with the purpose of also later being used to build a news summary app. | Vanilla JavaScript | Full Pair Programming |
 | [InstaSham](https://github.com/Robert-G-J/instagram-challenge)| A fun clone of the Instagram web app | Ruby on Rails, RSpec/Capybara, HTML, CSS  | Solo |
 |[RPS](https://github.com/Robert-G-J/rps-challenge)| A simplistic RPS simulator | Ruby, Sinatra, RSpec | Solo |
