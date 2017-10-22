@@ -1,5 +1,5 @@
-# Robert Jones
-***
+# Robert Glyndwr Jones
+
 #### [Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Contact](#contact)
 
 Hello there, I'm Robert.
@@ -17,7 +17,7 @@ That's a pretty broad term, but is encapsulated by an energy and enthusiasm to u
 
 #### I actively use:
 
-- Ruby, Ruby on Rails, RSpec, Capybara, Javascript, Jasmine, Zombie, Node.js, PostgreSQL, Github
+- Ruby, Ruby on Rails, RSpec, Capybara, Javascript, Jasmine, Zombie, Node.js, PostgreSQL, Github, Travis CI, Coveralls, SOLID Principles, Kent Beck's Design Principles, 
 
 #### And care about:
 - **Design:** Object-orientated design that aims to create SOLID, DRY code with TDD
@@ -36,12 +36,13 @@ That's a pretty broad term, but is encapsulated by an energy and enthusiasm to u
 
 | Project | Summary | Technologies | Undertaken |  
 |----|----|----|----|    
-| [Finding Ra](https://github.com/Robert-G-J/finding-ra) | A TDD 'sunny pub' finder (made in 4 days); my penultimate group project at Makers Academy  | Node.js, Javascript, Jasmine, Google Maps/Places API | Team of 4 Junior Devs & Pair Programming |
-| [MakersBnB](https://github.com/Robert-G-J/makersbnb) | A TDD clone of AirBnB | Javascript, Node.js | Team of 4 with Pair Programming |
 | [Weather-Notifier](http://github.com/bruxelles86/weather-notifier) | Users can set alerts for favourable weather forecasts, so they can plan their leisure time | Javascript, Node.js, WorldWeather API | Remote, pair-programming collaboration (on-going)
-| [Testing Framework](https://github.com/Robert-G-J/NoteyMcNoteface/blob/master/test-library.js) | A simple JS test suite, built as a library for a To Do list app, with the purpose of also later being used to build a news summary app. | Vanilla JavaScript | Full Pair Programming |
+| [YerrFace](https://github.com/jackbittiner/YerrFace) | A fun experiment to play with the Microsoft Azure Emotion API. Screen captures yerr face and tell your how you're feeling. Will become a rather silly game.  | Vanilla JavaScript, Jasmine | Full Pair Programming |
+| [Great Circular](https://github.com/Robert-G-J/great-circular)| Calculates great-circle distance (on the surface of a sphere) to find close partner businesses  | Javascript, Jasmine | Solo |
+| [Terrifying Tic-Tac-Toe] (https://github.com/Robert-G-J/Terrifying-Tic_Tac_Toe) | A fulled BDD/TDD'd version of the game with an unbeatable computer player (ongoing) | Ruby, RSpec, Travis CI, Coveralls | Solo |
+| [MakersBnB](https://github.com/Robert-G-J/makersbnb) | A TDD clone of AirBnB | Javascript, Node.js | Team of 4 with Pair Programming |
 | [InstaSham](https://github.com/Robert-G-J/instagram-challenge)| A fun clone of the Instagram web app | Ruby on Rails, RSpec/Capybara, HTML, CSS  | Solo |
-|[RPS](https://github.com/Robert-G-J/rps-challenge)| A simplistic RPS simulator | Ruby, Sinatra, RSpec | Solo |
+| [Finding Ra](https://github.com/Robert-G-J/finding-ra) | A TDD 'sunny pub' finder (made in 4 days); my penultimate group project at Makers Academy  | Node.js, Javascript, Jasmine, Google Maps/Places API | Team of 4 Junior Devs & Pair Programming |
 
 ## <a name="education">Education</a>
 
